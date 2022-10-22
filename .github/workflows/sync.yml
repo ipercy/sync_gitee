@@ -3,6 +3,9 @@ name: Sync
 on:
   push:
     branches: [master]
+  repository_dispatch:
+    types:
+      - rollback
   workflow_dispatch:
 
 jobs:

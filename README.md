@@ -5,5 +5,6 @@ Github Action Event:https://docs.github.com/en/actions/using-workflows/events-th
 远程触发 GitHub Action:https://cloud.tencent.com/developer/article/1868010
 RepositoryDispatchEvent:https://docs.github.com/en/rest/repos/repos#create-a-repository-dispatch-event
 
+
 流程图：
-![](https://raw.githubusercontent.com/ipercy/sync_gitee/master/images/20221023134551.mp4)
+![](https://raw.githubusercontent.com/ipercy/sync_gitee/master/images/20221023134551.jpg)
